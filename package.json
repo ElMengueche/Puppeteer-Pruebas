@@ -1,0 +1,20 @@
+{
+  "name": "puppeteer-pruebas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tesForm.js",
+  "scripts": {
+    "test": "mocha --timeout=30000 ./tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "puppeteer": "^19.8.5"
+  },
+  "dependencies": {
+    "prettier": "^2.8.8"
+  }
+}
